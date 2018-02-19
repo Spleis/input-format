@@ -30,7 +30,6 @@ npm-debug.log
 /commonjs/
 
 # browser builds
-/bundle/
 
 # demo page
 /demo/
